@@ -1,0 +1,17 @@
+@import "./utilities/variables";
+@import "./utilities/mixins";
+
+@import "./pages/index";
+@import "./pages/menu";
+
+@import "./layout/footer";
+@import "./layout/header";
+
+@import "./components/buttons";
+@import "./components/heart";
+@import "./components/loader";
+
+@import "./base/base";
+@import "./base/typography";
+
+//  making it easier to manage and maintain the styles for different parts of the website.
